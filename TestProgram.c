@@ -5,13 +5,13 @@
  * Author: Justfier
  */
 
-#include <stdio.h> //include input/output header file.
+#include <stdio.h> //Include input/output header file.
 
 int main ()
 {
-	//output a string.
+	//Output a string.
 	printf("This is my first program. \n");
 	
-	//Upon success return...
+	//Upon success return 0 to the processor.
 	return 0;
 }
